@@ -1,0 +1,74 @@
+.hero-caption {
+	text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
+}
+
+.hero-carousel .carousel-item img {
+	height: 70vh;
+	object-fit: cover;
+}
+
+.section-title {
+	letter-spacing: 0.5px;
+}
+
+.footer-simple {
+	padding: 2rem 0;
+	background: #fff;
+	border-top: 1px solid #eee;
+}
+
+body {
+	background: #f8f9fc;
+}
+
+.service-card {
+	border: 0;
+	border-radius: 14px;
+	overflow: hidden;
+	box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+}
+
+.service-card .card-header {
+	background: #f6c23e;
+	color: #fff;
+	border: 0;
+	padding: 1.25rem 1rem;
+}
+
+.service-icon {
+	width: 34px;
+	height: 24px;
+	background: rgba(255, 255, 255, 0.25);
+	border-radius: 6px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 14px;
+}
+
+.price-label {
+	color: #858796;
+	font-weight: 600;
+}
+
+.price-value {
+	color: #1cc88a;
+	font-weight: 700;
+}
+
+.btn-queue {
+	background: #36b9cc;
+	border-color: #36b9cc;
+	color: #fff;
+	box-shadow: 0 4px 10px rgba(54, 185, 204, 0.3);
+}
+
+.btn-queue:hover {
+	background: #2aa3b5;
+	border-color: #2aa3b5;
+	color: #fff;
+}
+
+.top-actions {
+	gap: 0.75rem;
+}
